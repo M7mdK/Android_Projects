@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">BiggerNumber</string>
+    <string name="title">Bigger Number Game!</string>
+    <string name="points">Points: </string>
+    <string name="howToPlay">Press the button of the largest number,
+        if you get it right you will earn a point, if you get it wrong you lose a point.</string>
+    <string name="correctToast">Correct!</string>
+    <string name="incorrectToast">Incorrect!</string>
+    <string name="zero">0</string>
+</resources>

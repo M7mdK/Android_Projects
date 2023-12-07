@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Dicee</string>
+    <string name="Description">Rolls the dice</string>
+    <string name="button_text">رول</string>
+    <string name="casino_logo">لوغو</string>
+    <string name="left_dice">Left Dice</string>
+    <string name="right_dice">Right Dice</string>
+</resources>

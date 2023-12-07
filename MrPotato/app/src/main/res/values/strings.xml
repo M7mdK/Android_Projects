@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Mr Potato</string>
+    <string name="Title">Mr. Potato</string>
+    <string name="howToPlay">Click his parts to add/remove them!</string>
+
+    <string name="hat_text">Hat</string>
+    <string name="eyebrows_text">Eyebrows</string>
+    <string name="nose_text">Nose</string>
+    <string name="mustache_text">Mustache</string>
+    <string name="arms_text">Arms</string>
+    <string name="eyes_text">Eyes</string>
+    <string name="glasses_text">Glasses</string>
+    <string name="mouth_text">Mouth</string>
+    <string name="ears_text">Ears</string>
+    <string name="shoes_text">Shoes</string>
+</resources>
